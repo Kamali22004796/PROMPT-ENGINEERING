@@ -5,10 +5,12 @@ Develop a comprehensive report for the following exercises:
 # 1.	The foundational concepts of Generative AI. 
 
 Generative AI is a branch of artificial intelligence focused on creating new content such as text, images, audio, and video. It works by learning patterns from existing data and generating outputs that resemble real data. The foundational concepts include unsupervised learning, probabilistic models, and neural networks, especially deep learning. Techniques such as Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and autoregressive models form the basis for content generation. These models learn the underlying structure and semantics of data, enabling them to create high-quality, realistic outputs.
-
-# 2.	Generative AI architectures. (like transformers).
+# 2.	Generative AI architectures.
 
 Among the most significant advancements in Generative AI is the transformer architecture. Introduced in the "Attention is All You Need" paper, transformers rely on self-attention mechanisms to process input data in parallel rather than sequentially. This enables better contextual understanding and scalability. Transformer-based models like GPT (Generative Pre-trained Transformer), BERT (Bidirectional Encoder Representations from Transformers), and T5 (Text-to-Text Transfer Transformer) have set new standards in natural language understanding and generation. These architectures can handle large-scale datasets efficiently and produce human-like outputs, which has driven their widespread adoption in modern AI systems.
+
+![image](https://github.com/user-attachments/assets/39c05a73-7006-4c42-adf9-a5e7aaccac6b)
+
 
 # 3.	Generative AI applications.
 
